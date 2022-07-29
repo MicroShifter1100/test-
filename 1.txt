@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdasdasd
+>>>>>>> develop
+=======
+develop 2
 >>>>>>> develop
